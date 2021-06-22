@@ -10,8 +10,8 @@
 </a>
 <br/> -->
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-barciela/) 
-[![Github Badge](https://img.shields.io/badge/-ramatc-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/sbarciela)
-[![Mail Badge](https://img.shields.io/badge/-rtanquiascornejo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:barcielasebastian@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-sbarciela-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/sbarciela)
+[![Mail Badge](https://img.shields.io/badge/-barcielasebastian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:barcielasebastian@gmail.com)
 
 
 
