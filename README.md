@@ -14,6 +14,7 @@
 [![Mail Badge](https://img.shields.io/badge/-barcielasebastian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:barcielasebastian@gmail.com)
 
 <hr>
+
 **:computer: About Me**
 
 ```javascript
@@ -22,7 +23,7 @@ const AboutMe = {
    name: Sebastian Barciela,
    gender: male,
    age: 30+,
-   location: Buenos Aires,Argentina
+   location: Buenos Aires, Argentina
    },
   code: [javascript, html5, css3],
   tools: [vscode, git, github, react],
