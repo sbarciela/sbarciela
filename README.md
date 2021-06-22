@@ -17,9 +17,9 @@
 
 ### Full Stack Web Developer
 
-- 🔭 I’m currently working on [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
-- 🕵 Presently learning **React**
-- 📫 You may reach me at: **barcielasebastian@gmail.com** <br>
+- :floppy_disk: I’m currently working on [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
+- :mag: Presently learning **React**
+- :email: You may reach me at: **barcielasebastian@gmail.com** <br>
 
 <hr>
 
