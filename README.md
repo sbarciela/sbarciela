@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!I´m Sebastián 👋
 
 <!--
 **sbarciela/sbarciela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const AboutMe = {
+  person: {
+   name: Sebastian Barciela,
+   gender: male,
+   age: 30+,
+   location: Buenos Aires,Argentina
+   },
+  code: [javascript, html5, css3],
+  tools: [vscode, git, github, react],
+  hobbies: [music, photography, cook], 
+}
+
