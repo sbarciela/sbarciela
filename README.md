@@ -14,6 +14,13 @@
 [![Mail Badge](https://img.shields.io/badge/-barcielasebastian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:barcielasebastian@gmail.com)
 
 <hr>
+- 🔭 I’m currently working on [Kicks](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
+- 
+- 👨‍💻 I,m learning React
+
+- 📫 Reach me at **barcielasebastian@gmail.com**
+
+
 
 **:computer: About Me**
 
