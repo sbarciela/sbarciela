@@ -35,7 +35,7 @@ const AboutMe = {
 **:octocat: Github Statistics**
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarciela&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarcielac&layout=compact&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarciela&layout=compact&theme=tokyonight"/>
 </p>
 
 
