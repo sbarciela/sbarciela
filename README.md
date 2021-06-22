@@ -9,23 +9,11 @@
   <img align="left" alt="Sebastian Barciela's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/> -->
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-barciela/) 
 [![Github Badge](https://img.shields.io/badge/-sbarciela-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/sbarciela)
+[![Linkedin Badge](https://img.shields.io/badge/-Sebastian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-barciela/) 
 [![Mail Badge](https://img.shields.io/badge/-barcielasebastian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:barcielasebastian@gmail.com)
 
-
-
-
-**:octocat: Github Statistics**
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarciela&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarcielac&layout=compact&theme=tokyonight"/>
-</p>
-
 <hr>
-
-
-
 ```javascript
 const AboutMe = {
   person: {
@@ -39,4 +27,15 @@ const AboutMe = {
   hobbies: [music, photography, cook], 
 }
 ```
+
+
+
+
+**:octocat: Github Statistics**
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarciela&hide=contribs,prs&theme=tokyonight&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarcielac&layout=compact&theme=tokyonight"/>
+</p>
+
+
 
