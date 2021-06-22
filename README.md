@@ -12,4 +12,5 @@ const AboutMe = {
   tools: [vscode, git, github, react],
   hobbies: [music, photography, cook], 
 }
+´´´
 
