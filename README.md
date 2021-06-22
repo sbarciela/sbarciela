@@ -18,8 +18,8 @@
 ### Full Stack Web Developer
 
 - 🔭 I’m currently working on [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
-- 🕵 I’m currently learning **React**
-- 📫 Reach me at: **barcielasebastian@gmail.com** <br>
+- 🕵 Presently learning **React**
+- 📫 You may reach me at: **barcielasebastian@gmail.com** <br>
 
 <hr>
 
