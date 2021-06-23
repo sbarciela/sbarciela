@@ -1,4 +1,4 @@
-# Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I´m [Sebastián Barciela](https://www.linkedin.com/in/sebastián-barciela/). 
+# Hello World! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif" width="55px" alt="hi"> I´m [Sebastián Barciela](https://www.linkedin.com/in/sebastián-barciela/). 
 <!-- <a href="https://www.linkedin.com/in/sebastián-barciela/">
   <img align="left" alt="Sebastian Barciela's Linkedin" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
