@@ -15,7 +15,7 @@
 
 
 
-### Full Stack Web Developer <>
+### Full Stack Web Developer </>
 
 - :floppy_disk: I’m currently working on [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
 - :mag: Presently learning **React**
