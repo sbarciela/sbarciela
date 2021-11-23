@@ -18,7 +18,7 @@
 ### Full Stack Web Developer </>
 
 - :floppy_disk: I’m currently working on [Kicks](https://github.com/sbarciela/kicks) -->[:earth_americas:](https://kicks-ecommerce.herokuapp.com/)
-- :mag: Presently learning **React**
+- :mag: Presently learning **Next Js**
 - :email: You may reach me at: **barcielasebastian@gmail.com** <br>
 
 <hr>
